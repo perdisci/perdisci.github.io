@@ -5,7 +5,7 @@
 <lastmod>2021-10-01T00:00:00-04:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/news/acsac/</loc>
+<loc>http://localhost:4000/news/acsac22/</loc>
 <lastmod>2022-02-01T00:00:00-05:00</lastmod>
 </url>
 <url>
@@ -19,6 +19,14 @@
 <url>
 <loc>http://localhost:4000/news/imc22_paper/</loc>
 <lastmod>2022-08-19T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/news/acsac23/</loc>
+<lastmod>2023-02-01T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/news/trident_paper/</loc>
+<lastmod>2023-02-03T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog/2022/displaying-external-posts-on-your-al-folio-blog/</loc>
